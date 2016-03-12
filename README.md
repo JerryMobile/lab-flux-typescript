@@ -1,5 +1,5 @@
-# React-Router Demo
-It is a demo for react-router package
+# 使用TypeScript寫Flux
+一個簡單的Example，試著用TypeScript寫Flux架構下的新增Todo功能
 
 ## Package Installation
 安裝tsd後，執行以下的Command下載TypeScript定義檔
